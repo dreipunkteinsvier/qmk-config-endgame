@@ -24,7 +24,7 @@
         "console": false,
         "dip_switch": false,
         "encoder": false,
-        "extrakey": false,
+        "extrakey": true,
         "grave_esc": false,
         "lto": false,
         "magic": false,
