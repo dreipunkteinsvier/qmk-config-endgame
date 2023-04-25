@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [oldman](https://github.com/albinoa-zebra)
+* Keyboard Maintainer: [oldman](https://github.com/albino-zebra)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
