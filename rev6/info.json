@@ -15,7 +15,7 @@
         "rows": ["GP14", "GP13", "GP12", "GP11"]
     },
     "features": {
-        "audio": false,
+        "audio": true,
         "backlight": false,
         "combo": false,
         "command": false,
