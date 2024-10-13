@@ -7,13 +7,13 @@
         "pid": "0x0000",
         "vid": "0xFEED"
     },
-    "bootloader": "caterina",
-    "processor": "atmega32u4",
+    "bootloader": "rp2040",
+    "processor": "rp2040",
     "debounce": 5,
     "diode_direction": "COL2ROW",
     "matrix_pins": {
-        "cols": ["B6", "B2", "B3", "B1", "F7", "C6", "D7", "E6", "B4", "B5"],
-        "rows": ["D0", "D1", "D2", "D4"]
+        "cols": ["GP16", "GP21", "GP23", "GP20", "GP22", "GP26", "GP27", "GP28", "GP11"],
+        "rows": ["GP3", "GP2", "GP5", "GP4", "GP7", "GP6", "GP14", "GP15", "GP12", "GP13", "GP8", "GP9"]
     },
     "features": {
         "audio": false,
