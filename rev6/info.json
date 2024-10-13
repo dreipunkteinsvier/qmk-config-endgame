@@ -85,6 +85,13 @@
         "led_count": 1,
         "layout": [
             { "flags": 4, "matrix": [0, 0], "x": 0, "y": 0}
-        ]
+        ],
+        "animations": {
+            "solid_color": true,
+            "breathing": true,
+            "cycle_all": true,
+            "pixel_rain": true,
+            "typing_heatmap": true
+        }
     }
 }
